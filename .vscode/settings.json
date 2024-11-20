@@ -6,5 +6,7 @@
     "strings",
     "while"
   ],
-  "cSpell.ignoreWords": []
+  "cSpell.ignoreWords": [
+    "Vehiculo"
+  ]
 }
